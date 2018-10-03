@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Xx KYS xX">
+</Property><Property Name="Archivo de la solución" Value="F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Xx KYS xX.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Xx KYS xX.suo">
+</Property><Property Name="Date" Value="miércoles, 12 de octubre de 2016">
+</Property><Property Name="Time" Value="0:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Xx KYS xX.sln" Description="La copia F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Xx KYS xX.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Xx KYS xX.suo" Description="La copia F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Xx KYS xX.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Spy Security.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Spy Security.vbproj">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Spy Security.vbproj.user" Description="La copia de seguridad F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Spy Security.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form2.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form2.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form3.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form3.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form3.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form3.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form4.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form4.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form4.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form4.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form5.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form5.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form5.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form5.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form7.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form7.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form7.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form7.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form8.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form8.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form8.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form8.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="TCPController.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\TCPController.vb">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="app.config" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\app.manifest" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="default.ico" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\default.ico">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form2.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form3.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form4.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form4.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form5.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form5.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form7.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form7.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Form8.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\Form8.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Spy Security.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Spy Security" Source="Spy Security.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Xx KYS xX.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Xx KYS xX.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Spy Security" Source="Spy Security.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

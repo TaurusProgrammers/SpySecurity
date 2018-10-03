@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cliente">
+</Property><Property Name="Archivo de la solución" Value="F:\ultima actualizacion\Codigos Fuentes\cliente\cliente.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="F:\ultima actualizacion\Codigos Fuentes\cliente\cliente.suo">
+</Property><Property Name="Date" Value="miércoles, 12 de octubre de 2016">
+</Property><Property Name="Time" Value="0:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cliente.sln" Description="La copia F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="cliente.suo" Description="La copia F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\cliente.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\cliente.vbproj">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\cliente.vbproj.user" Description="La copia de seguridad F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\cliente.vbproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\ApplicationEvents.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\Form1.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\Form1.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\Form1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\Form2.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\Form2.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\Form2.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\SplashScreen1.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\SplashScreen1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\SplashScreen1.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\SplashScreen1.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\TCPController.vb" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\TCPController.vb">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\Jommans-Mahjong-My-Computer.ico" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\Jommans-Mahjong-My-Computer.ico">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\Form1.resx">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\Form2.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\Form2.resx">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\SplashScreen1.resx" Description="Se realizó correctamente la copia de seguridad del archivo F:\ultima actualizacion\Codigos Fuentes\cliente\Backup\cliente\SplashScreen1.resx">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\cliente.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="cliente" Source="cliente\cliente.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cliente.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="cliente.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cliente" Source="cliente\cliente.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

@@ -1,0 +1,18 @@
+F:\projects vb\Backup\Backup\Xx KYS xX\bin\Debug\Spy Security.exe
+F:\projects vb\Backup\Backup\Xx KYS xX\bin\Debug\Spy Security.pdb
+F:\projects vb\Backup\Backup\Xx KYS xX\bin\Debug\Spy Security.xml
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Xx_KYS_xX.Form1.resources
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Xx_KYS_xX.Form2.resources
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Xx_KYS_xX.Form3.resources
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Xx_KYS_xX.Form4.resources
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Xx_KYS_xX.Form5.resources
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Xx_KYS_xX.Resources.resources
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Xx KYS xX.vbproj.GenerateResource.Cache
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Spy Security.exe
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Spy Security.xml
+F:\projects vb\Backup\Backup\Xx KYS xX\obj\Debug\Spy Security.pdb
+F:\projects vb\Backup\Backup\Xx KYS xX\bin\Debug\ionic.zip.dll
+D:\Xx KYS xX\obj\Debug\Spy Security.exe
+D:\Xx KYS xX\obj\Debug\Spy Security.xml
+D:\Xx KYS xX\obj\Debug\Spy Security.pdb

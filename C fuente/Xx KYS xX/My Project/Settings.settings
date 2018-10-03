@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Setting" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="remi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kevinmolinataylor@gmail.com</Value>
+    </Setting>
+    <Setting Name="contra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">developers:$cisco123</Value>
+    </Setting>
+    <Setting Name="desti" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kevinmolinataylor@gmail.com</Value>
+    </Setting>
+    <Setting Name="ControlTM" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="ActT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Tm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="TP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Min</Value>
+    </Setting>
+    <Setting Name="No" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Developers</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ciscosecurity</Value>
+    </Setting>
+    <Setting Name="AutR" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ruta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vacio</Value>
+    </Setting>
+    <Setting Name="Cor" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EsIn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="remot" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="icono" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="capt" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vacio</Value>
+    </Setting>
+    <Setting Name="ipmaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

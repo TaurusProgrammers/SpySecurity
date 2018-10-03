@@ -1,0 +1,53 @@
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\bin\Debug\cliente.pdb
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\bin\Debug\cliente.xml
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.Form1.resources
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.Resources.resources
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.vbproj.GenerateResource.Cache
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.exe
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.xml
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.pdb
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.SplashScreen1.resources
+C:\Users\Spy\Documents\Visual Studio 2008\Projects\cliente\cliente\obj\Debug\cliente.Form2.resources
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.exe.config
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.exe
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.xml
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.pdb
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.exe
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.pdb
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.xml
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.Form1.resources
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.Form2.resources
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.Resources.resources
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.SplashScreen1.resources
+F:\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.vbproj.GenerateResource.Cache
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.exe.config
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.exe
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.xml
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.pdb
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.exe
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.pdb
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\bin\Debug\cliente.xml
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\ResolveAssemblyReference.cache
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.Form1.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.Form2.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.Resources.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.SplashScreen1.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\GenerateResource.read.1.tlog
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\GenerateResource.write.1.tlog
+I:\Programming\ultima actualizacion\Codigos Fuentes\cliente\cliente\obj\Debug\cliente.Form3.resources
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.exe
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.xml
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.pdb
+I:\Presentacion\cliente\cliente\bin\Debug\cliente.exe
+I:\Presentacion\cliente\cliente\bin\Debug\cliente.pdb
+I:\Presentacion\cliente\cliente\bin\Debug\cliente.xml
+I:\Presentacion\cliente\cliente\obj\Debug\ResolveAssemblyReference.cache
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.Form1.resources
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.Form2.resources
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.Form3.resources
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.Resources.resources
+I:\Presentacion\cliente\cliente\obj\Debug\cliente.SplashScreen1.resources
+I:\Presentacion\cliente\cliente\obj\Debug\GenerateResource.read.1.tlog
+I:\Presentacion\cliente\cliente\obj\Debug\GenerateResource.write.1.tlog

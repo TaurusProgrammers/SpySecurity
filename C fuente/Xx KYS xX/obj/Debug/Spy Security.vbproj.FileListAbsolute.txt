@@ -1,0 +1,234 @@
+D:\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\Xx KYS xX\obj\Debug\Spy_Security.Form1.resources
+D:\Xx KYS xX\obj\Debug\Spy_Security.Form2.resources
+D:\Xx KYS xX\obj\Debug\Spy_Security.Form3.resources
+D:\Xx KYS xX\obj\Debug\Spy_Security.Form4.resources
+D:\Xx KYS xX\obj\Debug\Spy_Security.Form5.resources
+D:\Xx KYS xX\obj\Debug\Spy_Security.Resources.resources
+D:\Xx KYS xX\bin\Debug\Spy Security.exe
+D:\Xx KYS xX\bin\Debug\Spy Security.pdb
+D:\Xx KYS xX\bin\Debug\Spy Security.xml
+D:\Xx KYS xX\obj\Debug\Spy Security.exe
+D:\Xx KYS xX\obj\Debug\Spy Security.xml
+D:\Xx KYS xX\obj\Debug\Spy Security.pdb
+D:\Xx KYS xX\bin\Debug\Spy Security.exe.config
+F:\Xx KYS xX\bin\Debug\Spy Security.exe.config
+F:\Xx KYS xX\obj\Debug\Spy Security.exe
+F:\Xx KYS xX\obj\Debug\Spy Security.xml
+F:\Xx KYS xX\obj\Debug\Spy Security.pdb
+F:\Xx KYS xX\bin\Debug\Spy Security.exe
+F:\Xx KYS xX\bin\Debug\Spy Security.pdb
+F:\Xx KYS xX\bin\Debug\Spy Security.xml
+F:\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+F:\Xx KYS xX\obj\Debug\Spy_Security.Form1.resources
+F:\Xx KYS xX\obj\Debug\Spy_Security.Form2.resources
+F:\Xx KYS xX\obj\Debug\Spy_Security.Form3.resources
+F:\Xx KYS xX\obj\Debug\Spy_Security.Form4.resources
+F:\Xx KYS xX\obj\Debug\Spy_Security.Form5.resources
+F:\Xx KYS xX\obj\Debug\Spy_Security.Resources.resources
+F:\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\hekpss\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\hekpss\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\hekpss\Xx KYS xX\bin\Debug\Spy Security.exe.config
+D:\hekpss\Xx KYS xX\bin\Debug\Spy Security.exe
+D:\hekpss\Xx KYS xX\bin\Debug\Spy Security.pdb
+D:\hekpss\Xx KYS xX\bin\Debug\Spy Security.xml
+D:\hekpss\Xx KYS xX\obj\Debug\Spy_Security.Form1.resources
+D:\hekpss\Xx KYS xX\obj\Debug\Spy_Security.Form2.resources
+D:\hekpss\Xx KYS xX\obj\Debug\Spy_Security.Form3.resources
+D:\hekpss\Xx KYS xX\obj\Debug\Spy_Security.Form4.resources
+D:\hekpss\Xx KYS xX\obj\Debug\Spy_Security.Form5.resources
+D:\hekpss\Xx KYS xX\obj\Debug\Spy_Security.Resources.resources
+D:\hekpss\Xx KYS xX\obj\Debug\Spy Security.exe
+D:\hekpss\Xx KYS xX\obj\Debug\Spy Security.xml
+D:\hekpss\Xx KYS xX\obj\Debug\Spy Security.pdb
+D:\hekpss\Xx KYS xX\obj\Debug\Spy_Security.Form6.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.exe.config
+D:\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.exe
+D:\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.pdb
+D:\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.xml
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form1.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form2.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form3.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form4.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form5.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form6.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Resources.resources
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.exe
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.xml
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.pdb
+D:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form7.resources
+F:\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.exe.config
+F:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.exe
+F:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.xml
+F:\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.pdb
+D:\USB U\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.exe.config
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.exe
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.xml
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.pdb
+D:\USB U\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.exe
+D:\USB U\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.pdb
+D:\USB U\Laboratorio Developers\Xx KYS xX\bin\Debug\svchost.xml
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form1.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form2.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form3.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form4.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form5.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form6.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Form7.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\svchost.Resources.resources
+D:\USB U\Laboratorio Developers\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\USB U\Working\Xx KYS xX\bin\Debug\svchost.exe.config
+D:\USB U\Working\Xx KYS xX\obj\Debug\svchost.exe
+D:\USB U\Working\Xx KYS xX\obj\Debug\svchost.xml
+D:\USB U\Working\Xx KYS xX\obj\Debug\svchost.pdb
+D:\Working UPDATE\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\Working UPDATE\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\Working UPDATE\Xx KYS xX\bin\Debug\SpyNet.exe.config
+D:\Working UPDATE\Xx KYS xX\bin\Debug\SpyNet.exe
+D:\Working UPDATE\Xx KYS xX\bin\Debug\SpyNet.pdb
+D:\Working UPDATE\Xx KYS xX\bin\Debug\SpyNet.xml
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Form1.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Form2.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Form3.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Form4.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Form5.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Form6.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Form7.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.Resources.resources
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.exe
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.xml
+D:\Working UPDATE\Xx KYS xX\obj\Debug\SpyNet.pdb
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\Working UPDATE +\Xx KYS xX\bin\Debug\Jeins.exe.config
+D:\Working UPDATE +\Xx KYS xX\bin\Debug\Jeins.exe
+D:\Working UPDATE +\Xx KYS xX\bin\Debug\Jeins.pdb
+D:\Working UPDATE +\Xx KYS xX\bin\Debug\Jeins.xml
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form1.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form2.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form3.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form4.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form5.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form6.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form7.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Resources.resources
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.exe
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.xml
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.pdb
+D:\Working UPDATE +\Xx KYS xX\obj\Debug\Jeins.Form8.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Jeins.exe.config
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.exe
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.xml
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.pdb
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Form1.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Form2.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Form3.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Form4.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Form5.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Form7.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Form8.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+F:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Jeins.exe
+F:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Jeins.pdb
+F:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Jeins.xml
+F:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Jeins.Resources.resources
+F:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\svchost.exe.config
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Explorer.exe.config
+D:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Explorer.exe
+D:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Explorer.pdb
+D:\Working UPDATE + Servidor\Xx KYS xX\bin\Debug\Explorer.xml
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Form1.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Form2.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Form3.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Form4.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Form5.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Form7.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Form8.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.Resources.resources
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.exe
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.xml
+D:\Working UPDATE + Servidor\Xx KYS xX\obj\Debug\Explorer.pdb
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\bin\Debug\svchost.exe.config
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\bin\Debug\svchost.exe
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\bin\Debug\svchost.pdb
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\bin\Debug\svchost.xml
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Form1.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Form2.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Form3.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Form4.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Form5.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Form7.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Form8.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.Resources.resources
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.exe
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.xml
+D:\Activity\Malware Gmail\Codigo Fuente\Xx KYS xX\obj\Debug\svchost.pdb
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.exe.config
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.exe
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.xml
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.pdb
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.exe
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.pdb
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.xml
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\Spy Security.vbprojResolveAssemblyReference.cache
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form1.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form2.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form3.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form4.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form5.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form7.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form8.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Resources.resources
+F:\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\Spy Security.vbproj.GenerateResource.Cache
+D:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.exe.config
+D:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.exe
+D:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.xml
+D:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.pdb
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.exe.config
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.exe
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.xml
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.pdb
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.exe
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.pdb
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\bin\Debug\svchost.xml
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form1.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form2.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form3.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form4.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form5.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form6.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form7.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Form8.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\svchost.Resources.resources
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\GenerateResource.read.1.tlog
+I:\Programming\ultima actualizacion\Codigos Fuentes\Xx KYS xX\obj\Debug\GenerateResource.write.1.tlog
+I:\Presentacion\Xx KYS xX\bin\Debug\svchost.exe.config
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.exe
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.xml
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.pdb
+I:\Presentacion\Xx KYS xX\bin\Debug\svchost.exe
+I:\Presentacion\Xx KYS xX\bin\Debug\svchost.pdb
+I:\Presentacion\Xx KYS xX\bin\Debug\svchost.xml
+I:\Presentacion\Xx KYS xX\obj\Debug\ResolveAssemblyReference.cache
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form1.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form2.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form3.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form4.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form5.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form6.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form7.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Form8.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\svchost.Resources.resources
+I:\Presentacion\Xx KYS xX\obj\Debug\GenerateResource.read.1.tlog
+I:\Presentacion\Xx KYS xX\obj\Debug\GenerateResource.write.1.tlog
