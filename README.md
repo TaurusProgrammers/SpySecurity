@@ -14,4 +14,4 @@ Funciones:
 Este software viene empaquetado en sub_proyectos para cliente servidor
 contiene una carpeta con la codificacion .exe el cual su antivirus talvez detecte bajen la carpeta o desactivar antimalware al bajar
 
-Desarrollado por Developers Security Group
+# Desarrollado por Developers Security Group
